@@ -1,5 +1,2 @@
-# Webtechnik-Aufgaben
-Hier kommen die Aufgaben die wir in Webtechnik machen rein
-
-## Neue Branches
-Jede Branch ist eine eigene Aufgabe
+# Aufgabe 1
+Hier ist die erste Aufgabe 
